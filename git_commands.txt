@@ -5,3 +5,4 @@ git rm --cached <filename>
 git commit -m "commit message"
 git restore <filename>l
 git clone https.....
+git pull origin master
