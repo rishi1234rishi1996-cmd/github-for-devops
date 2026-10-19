@@ -1,1 +1,3 @@
-print("hello dosto") 
+"""Module to print a greeting."""
+
+print("hello dosto")
